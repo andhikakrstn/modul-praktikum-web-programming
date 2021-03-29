@@ -32,7 +32,7 @@ header {
 footer {
     color: rgb(100, 149, 237);
     font-size: 10pt;
-    text-align: center;
+    text-align: left;
 }
 
 .container {
